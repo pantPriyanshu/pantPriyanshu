@@ -8,7 +8,7 @@
 
 > <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanshuPant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshuPant" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pantPriyanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshuPant" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -45,6 +45,6 @@
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/priyanshpant999)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuPant&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/priyanshuPant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantPriyanshu&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/pantPriyanshu/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=priyanshuPant.priyanshPant)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pantPriyanshu.pantPriyanshu)
