@@ -1,7 +1,5 @@
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height = "75px"> Hi, I’m Hiten Samalia  -->
 👋 Hi, I’m Priyanshu Pant <br>
-👀 I’m interested in Machine Learning, AI and IOT<br>
-🌱 I’m currently learning Java<br>
 💞️ I’m looking to collaborate on anything that intersting that I can get my hands on.<br>
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/30778907/222880097-24ccc8fb-099e-4690-b740-dc804e44d0eb.png">
