@@ -1,48 +1,68 @@
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height = "75px"> Hi, I’m Hiten Samalia  -->
-👋 Hi, I’m Priyanshu Pant <br>
-💞️ I’m looking to collaborate on anything that intersting that I can get my hands on.<br>
 
+
+
+
+# Priyansh Pant
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/30778907/222880097-24ccc8fb-099e-4690-b740-dc804e44d0eb.png">
 
-> <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pantPriyanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshuPant" height="30" width="40" /></a>
-</p>
+📧 **Email**: [priyanshpant999@gmail.com](mailto:priyanshpant999@gmail.com)  
+📞 **Phone**: +91 9599464598  
+📍 **Location**: New Delhi, India  
 
-<br>
+[LeetCode](https://leetcode.com/) | [HackerRank](https://www.hackerrank.com/) | [LinkedIn](https://www.linkedin.com/)  
 
-> <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
+---
 
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="javascript" width="40" height="40"/> </a> 
-     <a href="http://www.cplusplus.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-       <a href="https://www.javatpoint.com/bash-scripting" target="_blank"> <img src="https://help.apple.com/assets/6152754A4192845C4361C49A/6152754B4192845C4361C4A1/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1642082724" alt="nodejs" width="40" height="40"/> </a>
-  </p>
+🎓 Education
 
-  
+**Panipat Institute of Engineering & Technology (PIET), Panipat**  
+**Bachelor of Technology in Computer Science Engineering**  
+**CGPA**: 7.5  
 
+---
 
- ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pantPriyanshu&show_icons=true&theme=highcontrast)
- 
-<!--  [![Hiten's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitensam&theme=react-dark)](https://github.com/hitensam/github-readme-activity-graph)
-  -->
+## 💼 Experience
 
+### **Coding Ninjas | Teaching Assistant (Data Structures)**  
+**July 2020 - July 2024 | Panipat**  
+- Developed leadership qualities by guiding students as a Teaching Assistant (TA).  
+- Proficient in Java programming, data structures, algorithms, and problem-solving.  
+- Enhanced effective communication by providing constructive feedback to students.
 
+### **Google Developer Student Club, PIET | Mentor**  
+**October 2023 - March 2024**  
+- Mentored students during a Google Cloud Platform study jam, teaching core concepts.  
+- Provided one-on-one and group support for troubleshooting and problem-solving.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyanshuPant&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- -->
-<img src = "https://github-profile-trophy.vercel.app/?username=priyanshuPant&theme=monokai" width = "100%" >
-<br>
-<!-- <img width = "100%" src = "github-metrics.svg" > -->
+---
 
+## 🛠 Skills
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/priyanshpant999)
+**Programming Languages**: Java, HTML, CSS, JavaScript, OOP  
+**Libraries/Frameworks**: Spring Boot, Tailwind  
+**Tools/Platforms**: VSCode, Eclipse, GitHub, IntelliJ, Google Cloud  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantPriyanshu&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/pantPriyanshu/github-readme-stats)
+---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pantPriyanshu.pantPriyanshu)
+## 🚀 Projects / Open Source
+
+### [EM Service Incharge](#)  
+- Built a CRUD application to manage employee details using Spring Boot.  
+- Integrated MongoDB and Spring Data JPA for efficient data storage and retrieval.  
+- Designed RESTful APIs for CRUD operations with validation and error handling.
+
+### **WeatherLens**  
+- Developed a dynamic weather application using HTML, CSS, and JavaScript.  
+- Integrated OpenWeatherMap API for real-time weather updates and session storage.
+
+### **DevTracker**  
+- Created a GitHub user profile finder using HTML, CSS, and JavaScript.  
+- Integrated GitHub API to display user data such as repositories, followers, and bio.
+
+---
+
+## 📜 Certifications
+
+- **Data Structures in Java** - Coding Ninjas  
+- **Design Thinking: A Primer** - NPTEL  
+- **Introduction to Internet of Things** - NPTEL  
