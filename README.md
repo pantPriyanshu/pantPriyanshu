@@ -39,7 +39,7 @@
 ## 🛠 Skills
 
 **Programming Languages**: Java, HTML, CSS, JavaScript, OOP  
-**Libraries/Frameworks**: Spring Boot, Tailwind  
+**Libraries/Frameworks**: React,Spring Boot, Tailwind  
 **Tools/Platforms**: VSCode, Eclipse, GitHub, IntelliJ, Google Cloud  
 
 ---
