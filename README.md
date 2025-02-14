@@ -55,7 +55,7 @@
 - Developed a dynamic weather application using HTML, CSS, and JavaScript.  
 - Integrated OpenWeatherMap API for real-time weather updates and session storage.
 
-### **DevTracker**  
+### **GitHubLens**  
 - Created a GitHub user profile finder using HTML, CSS, and JavaScript.  
 - Integrated GitHub API to display user data such as repositories, followers, and bio.
 
