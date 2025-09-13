@@ -21,18 +21,41 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience  
 
-### **Coding Ninjas | Teaching Assistant (Data Structures)**  
-**July 2020 - July 2024 | Panipat**  
-- Developed leadership qualities by guiding students as a Teaching Assistant (TA).  
-- Proficient in Java programming, data structures, algorithms, and problem-solving.  
-- Enhanced effective communication by providing constructive feedback to students.
+### **Junior Software Developer — Rabyte Technologies**  
+**December 2024 – Present**  
+- Working as a Junior Developer, responsible for maintaining and optimizing backend workflows by automating report generation tasks using CRONJOB.  
+- Developed and deployed a full-stack web application using **ReactJS (frontend)** and **FastAPI (backend)** on an **NGINX server**, with the following features:  
+  - Allows users to upload Excel files and automatically generates standardized EDI files for **POS, PO, and Claim** document types.  
+  - Integrated **FTP transfer functionality** to securely send the generated EDI files to client systems.  
+  - Automated existing **ETL scripts** within the application to perform seamless data extraction, transformation, and loading without manual intervention.  
+  - Implemented additional standalone ETL processes to transform and deliver EDI data in the client’s desired format, ensuring alignment with business requirements and integration standards.  
+  - Developed **SQL reports** to extract data from **SAP HANA DB** for ETL processes involving POS, PO, and Inventory, ensuring accurate and efficient data retrieval to support downstream automation.  
 
-### **Google Developer Student Club, PIET | Mentor**  
-**October 2023 - March 2024**  
-- Mentored students during a Google Cloud Platform study jam, teaching core concepts.  
-- Provided one-on-one and group support for troubleshooting and problem-solving.
+---
+
+### **Front-End Developer Intern — TEMS Technology**  
+**September 2024 – November 2024**  
+- Collaborated on designing and developing responsive web applications using **React.js, HTML, and CSS**.  
+- Implemented dynamic features and optimized performance for enhanced user experience.  
+- Coordinated with the back-end team for seamless API integration.  
+
+---
+
+### **Teaching Assistant — Coding Ninjas (Data Structures)**  
+**November 2023 – October 2024**  
+- Guided over 100 students in mastering **data structures** and **Java programming concepts**.  
+- Provided technical and conceptual mentorship, fostering strong problem-solving skills.  
+- Developed leadership and communication skills by addressing diverse student queries.  
+
+---
+
+### **Mentor — Google Developer Student Club, PIET**  
+**October 2023 – March 2024**  
+- Conducted sessions on **Google Cloud Platform basics** and troubleshooting.  
+- Supported collaborative learning through mentoring and group support.  
+
 
 ---
 
