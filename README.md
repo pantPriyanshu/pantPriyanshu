@@ -24,7 +24,7 @@
 ## 💼 Experience  
 
 ### **Junior Software Developer — Rabyte Technologies**  
-**December 2024 – Present**  
+**October 2024 – Present**  
 - Working as a Junior Developer, responsible for maintaining and optimizing backend workflows by automating report generation tasks using CRONJOB.  
 - Developed and deployed a full-stack web application using **ReactJS (frontend)** and **FastAPI (backend)** on an **NGINX server**, with the following features:  
   - Allows users to upload Excel files and automatically generates standardized EDI files for **POS, PO, and Claim** document types.  
